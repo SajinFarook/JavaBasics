@@ -1,0 +1,18 @@
+# JavaBasics
+
+This repository contains basic Java programs covering:
+
+- Variables and Data Types
+- Conditional Statements
+- Loops
+- Functions
+- Object-Oriented Programming basics
+
+## How to Run
+
+1. Clone the repository
+2. Open in IntelliJ IDEA
+3. Run the main class inside src/
+
+## Author
+Sajin Farook
